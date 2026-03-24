@@ -8,4 +8,4 @@ def hackers_func(hackers: list, security_level: int, increase: int) -> int:
     
     return count
 
-print(hackers_func([1, 2, 3, 4, 5], 3, 1))
+print(hackers_func([4, 15, 1, 6, 28], 3, 1))
